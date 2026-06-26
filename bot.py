@@ -26,8 +26,8 @@ from telegram.ext import (
 # ==============================================
 # 1. الإعدادات الأساسية (ضع التوكن هنا)
 # ==============================================
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "PUT_YOUR_TOKEN_HERE")
-ADMIN_IDS = [int(x) for x in os.environ.get("ADMIN_IDS", "123456789").split(",") if x.strip()]
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8994114690:AAGkyZPHJ-B4sdwP5qEFIt1p260EvIz5w88")
+ADMIN_IDS = [int(x) for x in os.environ.get("ADMIN_IDS", "8704784390").split(",") if x.strip()]
 DB_PATH = "pt_sgu_pro.db"
 
 # المواد الدراسية (قابلة للتعديل)
