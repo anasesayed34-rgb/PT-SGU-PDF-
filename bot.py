@@ -22,7 +22,7 @@ from telegram.ext import (
 )
 
 # ================== التوكن والآيدي ==================
-BOT_TOKEN = "8994114690:AAGkyZPHJ-B4sdwP5qEFIt1p260EvIz5w88"
+BOT_TOKEN = "8962028467:AAHNlT1yiDM9ShCEUVL3ebZJ0MBQVukFmm8"
 ADMIN_IDS = [8704784390]  # ضع معرفات الأدمن هنا (أكثر من واحد بالفاصلة)
 DB_PATH = "pt_sgu_pro.db"
 
